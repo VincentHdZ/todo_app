@@ -1,0 +1,9 @@
+L'utilisateur ne peut pas enregistrer une todo sans titre => DONE
+L'utilisateur doit pouvoir checker une todo en swippant de gauche à droite un item => DONE
+Afficher un message après l'enregistrement ou le check d'une todo. Utiliser le widget SnackBar => DONE
+Arrondire les borders de la modal enregistrement d'une todo
+
+
+====>Pour une prochaine version<====
+Adapter la taille de la modal en fonction du clavier
+Adapter la mise en forme de l'app en fonction de la taille du device
